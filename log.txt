@@ -288,3 +288,45 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/CAN Transceiver MCP2518 board to CAN-Transceiver-MCP2518-board-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CORE/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 7d3543f] Updating open source files.
+ 1 file changed, 42 insertions(+)
+https://github.com/SolderedElectronics/Dasduino-CORE-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino core programmer/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+/volume1/SOLDERED products/Soldered products/Dasduino-purple/Stripped Dasduino CONNECT/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino SWIFT F1/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of csv 0
+/volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino SWIFT L1 LoRa/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of html 2
+/volume1/SOLDERED products/Soldered products/Inkplate-purple/Inkplate 2/OUTPUTS/V1.2.2: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LoRa/LoRa breakout 3V3/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LoRa/LoRa breakout 5V/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/CAN Transceiver MCP2518 board/OUTPUTS/V1.1.1: all files are present, commiting...
+CAN-Transceiver-MCP2518-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/CAN Transceiver MCP2518 board to CAN-Transceiver-MCP2518-board-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CORE/.git/
