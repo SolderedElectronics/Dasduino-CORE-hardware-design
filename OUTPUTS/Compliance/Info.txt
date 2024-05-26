@@ -2,4 +2,4 @@ SKU: 333037, 333143, 333144
 Full product name: Dasduino CORE
 Country of origin: Croatia
 HS tariff code: 85340090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388672707, 732388664504, 732388664405
